@@ -1,6 +1,7 @@
 # Virtualni vrt
 
 **Grupa:** 1 · **Članovi:** Paula Perčin, Nikolina Sarić, Ana Radoš, Lea Bratanović 
+
 **Kolegij:** Kreativno programiranje za interaktivne medije · **Akademska godina:** 2026/2027
 
 ![Snimka ili GIF rada](dokumentacija/pregled.gif)
@@ -33,10 +34,10 @@ Sve potrebne datoteke nalaze se u mapi `data/`. Rad ne treba internet.
 ## Podjela rada
 | Član/ica | Zaduženja |
 |---|---|
-| [ime] | [...] |
-| [ime] | [...] |
-| [ime] | [...] |
-| [ime] | [...] |
+| [Nikolina] | [...] |
+| [Paula] | [...] |
+| [Lea] | [...] |
+| [Ana] | [...] |
 
 ## Izvori, licence i atribucija
 - **Fontovi:** [naziv], [licenca, npr. SIL OFL], [poveznica]
